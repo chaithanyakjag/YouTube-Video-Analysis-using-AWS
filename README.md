@@ -39,3 +39,7 @@ This project processes YouTube trending video data from multiple regions and tra
   - Popular categories and channels.
   - Top-performing videos by views and likes.
 
+## Conclusion
+This project showcases the power of AWS services for building a scalable and efficient data engineering pipeline. By automating data ingestion, transformation, and visualization, we gained valuable insights into YouTube's trending videos while optimizing query performance and storage.
+
+
